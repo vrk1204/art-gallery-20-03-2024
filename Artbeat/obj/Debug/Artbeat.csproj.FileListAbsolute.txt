@@ -1,0 +1,204 @@
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Artbeat.dll.config
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Artbeat.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Artbeat.pdb
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Antlr3.Runtime.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\AspNet.ScriptManager.jQuery.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\EntityFramework.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\EntityFramework.SqlServer.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.Owin.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.Owin.Security.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Google.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.Web.Infrastructure.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Newtonsoft.Json.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Owin.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\System.Web.Optimization.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\System.Web.Providers.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\WebGrease.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\System.Web.Optimization.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Antlr3.Runtime.pdb
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Newtonsoft.Json.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\EntityFramework.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\EntityFramework.SqlServer.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.Owin.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.Owin.Security.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Google.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\obj\Debug\Artbeat.csprojResolveAssemblyReference.cache
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\obj\Debug\Artbeat.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\Artbeat\obj\Debug\Artbeat.pdb
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Artbeat.dll.config
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Artbeat.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Artbeat.pdb
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Antlr3.Runtime.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\AspNet.ScriptManager.jQuery.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\EntityFramework.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\EntityFramework.SqlServer.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.Owin.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.Owin.Security.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Google.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.Web.Infrastructure.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Newtonsoft.Json.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Owin.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\System.Web.Optimization.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\System.Web.Providers.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\WebGrease.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\System.Web.Optimization.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Antlr3.Runtime.pdb
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Newtonsoft.Json.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\EntityFramework.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\EntityFramework.SqlServer.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.Owin.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.Owin.Security.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Google.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Project 2015-16\Code final\Artbeat\Artbeat\obj\Debug\Artbeat.dll
+G:\Project 2015-16\Code final\Artbeat\Artbeat\obj\Debug\Artbeat.pdb
+G:\Project 2015-16\Code final\Artbeat\Artbeat\obj\Debug\Artbeat.csprojResolveAssemblyReference.cache
+D:\project_stuff\Artbeat\Artbeat\bin\Artbeat.dll.config
+D:\project_stuff\Artbeat\Artbeat\bin\Artbeat.dll
+D:\project_stuff\Artbeat\Artbeat\bin\Artbeat.pdb
+D:\project_stuff\Artbeat\Artbeat\bin\Antlr3.Runtime.dll
+D:\project_stuff\Artbeat\Artbeat\bin\AspNet.ScriptManager.bootstrap.dll
+D:\project_stuff\Artbeat\Artbeat\bin\AspNet.ScriptManager.jQuery.dll
+D:\project_stuff\Artbeat\Artbeat\bin\EntityFramework.dll
+D:\project_stuff\Artbeat\Artbeat\bin\EntityFramework.SqlServer.dll
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.Core.dll
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.Owin.dll
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Cookies.dll
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.Owin.Security.dll
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Facebook.dll
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Google.dll
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.Owin.Security.OAuth.dll
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Twitter.dll
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.ScriptManager.WebForms.dll
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.Web.Infrastructure.dll
+D:\project_stuff\Artbeat\Artbeat\bin\Newtonsoft.Json.dll
+D:\project_stuff\Artbeat\Artbeat\bin\Owin.dll
+D:\project_stuff\Artbeat\Artbeat\bin\System.Web.Optimization.dll
+D:\project_stuff\Artbeat\Artbeat\bin\System.Web.Providers.dll
+D:\project_stuff\Artbeat\Artbeat\bin\WebGrease.dll
+D:\project_stuff\Artbeat\Artbeat\bin\System.Web.Optimization.xml
+D:\project_stuff\Artbeat\Artbeat\bin\Antlr3.Runtime.pdb
+D:\project_stuff\Artbeat\Artbeat\bin\Newtonsoft.Json.xml
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\project_stuff\Artbeat\Artbeat\bin\EntityFramework.xml
+D:\project_stuff\Artbeat\Artbeat\bin\EntityFramework.SqlServer.xml
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.Core.xml
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.Owin.xml
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.Owin.Security.xml
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Facebook.xml
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Cookies.xml
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Google.xml
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Twitter.xml
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\project_stuff\Artbeat\Artbeat\bin\Microsoft.Owin.Security.OAuth.xml
+D:\project_stuff\Artbeat\Artbeat\obj\Debug\Artbeat.csprojResolveAssemblyReference.cache
+D:\project_stuff\Artbeat\Artbeat\obj\Debug\Artbeat.dll
+D:\project_stuff\Artbeat\Artbeat\obj\Debug\Artbeat.pdb
+D:\project_s\Artbeat\Artbeat\bin\Artbeat.dll.config
+D:\project_s\Artbeat\Artbeat\bin\Artbeat.dll
+D:\project_s\Artbeat\Artbeat\bin\Artbeat.pdb
+D:\project_s\Artbeat\Artbeat\bin\Antlr3.Runtime.dll
+D:\project_s\Artbeat\Artbeat\bin\AspNet.ScriptManager.bootstrap.dll
+D:\project_s\Artbeat\Artbeat\bin\AspNet.ScriptManager.jQuery.dll
+D:\project_s\Artbeat\Artbeat\bin\EntityFramework.dll
+D:\project_s\Artbeat\Artbeat\bin\EntityFramework.SqlServer.dll
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.Core.dll
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.Owin.dll
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Cookies.dll
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.Owin.Security.dll
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Facebook.dll
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Google.dll
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.Owin.Security.OAuth.dll
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Twitter.dll
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.ScriptManager.WebForms.dll
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.Web.Infrastructure.dll
+D:\project_s\Artbeat\Artbeat\bin\Newtonsoft.Json.dll
+D:\project_s\Artbeat\Artbeat\bin\Owin.dll
+D:\project_s\Artbeat\Artbeat\bin\System.Web.Optimization.dll
+D:\project_s\Artbeat\Artbeat\bin\System.Web.Providers.dll
+D:\project_s\Artbeat\Artbeat\bin\WebGrease.dll
+D:\project_s\Artbeat\Artbeat\bin\System.Web.Optimization.xml
+D:\project_s\Artbeat\Artbeat\bin\Antlr3.Runtime.pdb
+D:\project_s\Artbeat\Artbeat\bin\Newtonsoft.Json.xml
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\project_s\Artbeat\Artbeat\bin\EntityFramework.xml
+D:\project_s\Artbeat\Artbeat\bin\EntityFramework.SqlServer.xml
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.Core.xml
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.Owin.xml
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.Owin.Security.xml
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Facebook.xml
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Cookies.xml
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Google.xml
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.Owin.Security.Twitter.xml
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\project_s\Artbeat\Artbeat\bin\Microsoft.Owin.Security.OAuth.xml
+D:\project_s\Artbeat\Artbeat\obj\Debug\Artbeat.csprojResolveAssemblyReference.cache
+D:\project_s\Artbeat\Artbeat\obj\Debug\Artbeat.dll
+D:\project_s\Artbeat\Artbeat\obj\Debug\Artbeat.pdb
